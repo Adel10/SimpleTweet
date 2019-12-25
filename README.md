@@ -15,7 +15,7 @@
   - User is taken back to home timeline with **new tweet visible** in timeline
   - Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
   - User can **see a counter with total number of characters left for tweet** on compose tweet page
-- User is using **"Twitter branded" colors and styles**
+- Used **"Twitter branded" colors and styles**
 - User can **pull down to refresh tweets timeline**
 - User sees an **indeterminate progress indicator** when any background or network task is happening
 - Used Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
