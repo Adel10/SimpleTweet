@@ -20,7 +20,7 @@
 - User sees an **indeterminate progress indicator** when any background or network task is happening
 - Used Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
 
-## Video Walkthrough
+## App Walkthrough
 
 Here's a walkthrough of implemented features:
 
